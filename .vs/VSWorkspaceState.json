@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ricorsione"
+    "\\Ricorsione",
+    "\\Ricorsione\\Divisione",
+    "\\Ripasso"
   ],
+  "SelectedNode": "\\Ricorsione\\Divisione\\main.c",
   "PreviewInSolutionExplorer": false
 }
