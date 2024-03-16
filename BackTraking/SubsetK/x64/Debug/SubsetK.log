@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\dican\OneDrive\Desktop\SDA\BackTraking\SubsetK\main.c(42,2): warning C4033: 'SubsetK' must return a value
+C:\Users\dican\OneDrive\Desktop\SDA\BackTraking\SubsetK\main.c(43): warning C4716: 'SubsetK': must return a value
+  SubsetK.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\BackTraking\SubsetK\x64\Debug\SubsetK.exe

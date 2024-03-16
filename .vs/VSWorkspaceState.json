@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ripasso",
-    "\\SommaFinoA"
+    "\\Ricorsione",
+    "\\Ricorsione\\Divisione",
+    "\\Ripasso"
   ],
-  "SelectedNode": "\\SommaFinoA\\somma.h",
+  "SelectedNode": "\\Ricorsione\\Divisione\\main.c",
   "PreviewInSolutionExplorer": false
 }
