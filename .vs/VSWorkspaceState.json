@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BackTraking",
     "\\Ricorsione",
     "\\Ricorsione\\Divisione",
     "\\Ripasso"
   ],
-  "SelectedNode": "\\Ricorsione\\Divisione\\main.c",
+  "SelectedNode": "\\BackTraking",
   "PreviewInSolutionExplorer": false
 }
