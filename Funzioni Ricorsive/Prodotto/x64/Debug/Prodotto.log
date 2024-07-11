@@ -1,0 +1,5 @@
+﻿  main.c
+  prodotto.c
+C:\Users\Utente\Desktop\SDA\Funzioni Ricorsive\Prodotto\prodotto.c(7,13): warning C4013: 'Prodotto' undefined; assuming extern returning int
+  Generating Code...
+  Prodotto.vcxproj -> C:\Users\Utente\Desktop\SDA\Funzioni Ricorsive\Prodotto\x64\Debug\Prodotto.exe
