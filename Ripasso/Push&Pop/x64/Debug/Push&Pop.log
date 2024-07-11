@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Utente\Desktop\Libri primo anno\Fondamenti di informatica II e lab\SDA\Ripasso\Push&Pop\main.c(18,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Push&Pop.vcxproj -> C:\Users\Utente\Desktop\Libri primo anno\Fondamenti di informatica II e lab\SDA\Ripasso\Push&Pop\x64\Debug\Push&Pop.exe

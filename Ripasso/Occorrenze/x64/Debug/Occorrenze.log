@@ -1,0 +1,3 @@
+﻿  occorrenze.c
+C:\Users\Utente\Desktop\Libri primo anno\Fondamenti di informatica II e lab\SDA\Ripasso\Occorrenze\occorrenze.c(25,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+  Occorrenze.vcxproj -> C:\Users\Utente\Desktop\Libri primo anno\Fondamenti di informatica II e lab\SDA\Ripasso\Occorrenze\x64\Debug\Occorrenze.exe
