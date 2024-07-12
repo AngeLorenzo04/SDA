@@ -1,3 +1,2 @@
 ﻿  torrecartoni.c
-C:\Users\asd\Desktop\SDA\BT2\TorreCartoni\torrecartoni.c(5,10): warning C4477: 'printf': con la stringa di formato '%i' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'size_t'
   TorreCartoni.vcxproj -> C:\Users\asd\Desktop\SDA\BT2\TorreCartoni\x64\Debug\TorreCartoni.exe
