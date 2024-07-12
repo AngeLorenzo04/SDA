@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ombrelloni.c",
-              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\BT\\Ombrelloni\\ombrelloni.c",
-              "RelativeDocumentMoniker": "ombrelloni.c",
-              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\BT\\Ombrelloni\\ombrelloni.c",
-              "RelativeToolTip": "ombrelloni.c",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-12T06:38:22.929Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,23 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\BT\\Ombrelloni\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-12T06:38:16.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ombrelloni.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\BT\\Ombrelloni\\ombrelloni.c",
+              "RelativeDocumentMoniker": "ombrelloni.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\BT\\Ombrelloni\\ombrelloni.c",
+              "RelativeToolTip": "ombrelloni.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-12T06:38:22.929Z",
               "EditorCaption": ""
             }
           ]
