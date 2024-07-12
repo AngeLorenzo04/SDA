@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Ripasso\\Occorrenze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A65C3BB3-8C93-41E0-A09B-EDDD272EA04D}|Occorrenze.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Ripasso\\Occorrenze\\occorrenze.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A65C3BB3-8C93-41E0-A09B-EDDD272EA04D}|Occorrenze.vcxproj|solutionrelative:occorrenze.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "occorrenze.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Ripasso\\Occorrenze\\occorrenze.c",
+              "RelativeDocumentMoniker": "occorrenze.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Ripasso\\Occorrenze\\occorrenze.c",
+              "RelativeToolTip": "occorrenze.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-11T17:18:25.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
