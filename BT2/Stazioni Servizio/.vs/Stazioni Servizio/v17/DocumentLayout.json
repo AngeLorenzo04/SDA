@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7258618C-4B03-4933-BE9B-D96CF8D310D9}|Stazioni Servizio.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\stazioniservizio.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7258618C-4B03-4933-BE9B-D96CF8D310D9}|Stazioni Servizio.vcxproj|solutionrelative:stazioniservizio.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7258618C-4B03-4933-BE9B-D96CF8D310D9}|Stazioni Servizio.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7258618C-4B03-4933-BE9B-D96CF8D310D9}|Stazioni Servizio.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-13T09:00:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stazioniservizio.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\stazioniservizio.c",
+              "RelativeDocumentMoniker": "stazioniservizio.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\BT2\\Stazioni Servizio\\stazioniservizio.c",
+              "RelativeToolTip": "stazioniservizio.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAIgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-13T09:00:53.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

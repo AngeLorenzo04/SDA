@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stazioni Servizio", "Stazioni Servizio.vcxproj", "{7258618C-4B03-4933-BE9B-D96CF8D310D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Debug|x64.ActiveCfg = Debug|x64
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Debug|x64.Build.0 = Debug|x64
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Debug|x86.Build.0 = Debug|Win32
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Release|x64.ActiveCfg = Release|x64
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Release|x64.Build.0 = Release|x64
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Release|x86.ActiveCfg = Release|Win32
+		{7258618C-4B03-4933-BE9B-D96CF8D310D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DBF304-F5F0-4BF0-8936-058859A2E2CD}
+	EndGlobalSection
+EndGlobal

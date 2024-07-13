@@ -1,0 +1,5 @@
+﻿  tiroallafune.c
+C:\Users\asd\Desktop\SDA\BT2\Tiro alla fune\tiroallafune.c(88,44): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\asd\Desktop\SDA\BT2\Tiro alla fune\tiroallafune.c(88,46): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\asd\Desktop\SDA\BT2\Tiro alla fune\tiroallafune.c(44,1): warning C4715: 'IsValid': non tutti i percorsi di controllo restituiscono un valore
+  Tiro alla fune.vcxproj -> C:\Users\asd\Desktop\SDA\BT2\Tiro alla fune\x64\Debug\Tiro alla fune.exe

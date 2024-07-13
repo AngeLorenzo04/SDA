@@ -1,0 +1,3 @@
+﻿  stazioniservizio.c
+C:\Users\asd\Desktop\SDA\BT2\Stazioni Servizio\stazioniservizio.c(107,38): warning C4020: 'ValidStazione': troppi parametri effettivi
+  Stazioni Servizio.vcxproj -> C:\Users\asd\Desktop\SDA\BT2\Stazioni Servizio\x64\Debug\Stazioni Servizio.exe
