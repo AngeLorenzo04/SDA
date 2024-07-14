@@ -4,7 +4,10 @@ static void Pop(Stack* stacks) {
 
 	if (stacks->m > 0) {
 		stacks->m--;
-		/*stacks->elements = realloc(stacks->elements, (nmem * sizeof(unsigned)));*/
+		/*
+		* size_t nmem = --stacks->m;
+		stacks->elements = realloc(stacks->elements, (nmem * sizeof(unsigned)));
+		*/
 	}
 
 
@@ -83,13 +86,14 @@ unsigned MaxSumNStack(Stack* stacks, size_t n) {
 				
 				break;
 			}
-			if (i == n - 1) {
+			if (i == (int)n - 1) {
 				tmp = -1;
 			}
 		}
 
 	}
 
+	free(sum);
 
 	return min;
 }
