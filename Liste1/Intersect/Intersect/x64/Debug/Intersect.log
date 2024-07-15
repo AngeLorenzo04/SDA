@@ -1,0 +1,5 @@
+﻿  intersect.c
+C:\Users\asd\Desktop\SDA\Liste1\Intersect\intersect.c(24,2): warning C4047: 'return': 'Item *' differisce da 'Item *(__cdecl *)(const Item *,const Item *)' nei livelli di riferimento indiretto
+C:\Users\asd\Desktop\SDA\Liste1\Intersect\intersect.c(7,19): warning C4133: 'inizializzazione': tipi non compatibili. Da 'const ElemType *' a 'const Item *'
+C:\Users\asd\Desktop\SDA\Liste1\Intersect\intersect.c(9,20): warning C4133: 'inizializzazione': tipi non compatibili. Da 'const ElemType *' a 'const Item *'
+  Intersect.vcxproj -> C:\Users\asd\Desktop\SDA\Liste1\Intersect\x64\Debug\Intersect.exe

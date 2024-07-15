@@ -1,0 +1,3 @@
+﻿  mian.c
+C:\Users\asd\Desktop\SDA\Liste1\Massimo\mian.c(12,22): warning C4090: 'funzione': qualificatori 'const' differenti
+  Massimo.vcxproj -> C:\Users\asd\Desktop\SDA\Liste1\Massimo\x64\Debug\Massimo.exe
