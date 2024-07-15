@@ -7,7 +7,7 @@ const ElemType* MaxElement(const Item* i) {
 	for (const Item* tmp = i; !ListIsEmpty(tmp); tmp = ListGetTail(tmp)) {
 
 		if (ElemCompare(ListGetHeadValue(tmp), max) > 0) {
-			max = *ListGetHeadValue(tmp);
+			max = ListGetHeadValue(tmp);
 		}
 
 	}
