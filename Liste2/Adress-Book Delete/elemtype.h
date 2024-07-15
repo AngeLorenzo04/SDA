@@ -107,6 +107,9 @@ void ElemWrite(const ElemType *e, FILE *f);
 */
 void ElemWriteStdout(const ElemType *e);
 
+void ElemWriteAll(const ElemType* e, FILE* f);
+
+void ElemWriteAllStdout(const ElemType* e);
 
 
 #endif // ELEMTYPE_INT_H_

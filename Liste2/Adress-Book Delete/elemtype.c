@@ -21,15 +21,13 @@ void ElemSwap(ElemType* e1, ElemType* e2) {
 }
 
 void ElemDelete(ElemType* e) {
-    // In questo caso la funzione ElemDelete non deve fare nulla, ma il 
-    // compilatore potrebbe segnalare il mancato utilizzo di e, come warning
-    // o come errore. Utilizzando la macro _unused sopra definita eliminiamo
-    // questo problema.
+    
     _unused(e);
+
 }
 
 int ElemRead(FILE* f, ElemType* e) {
-    return fscanf(f, "%d", e);
+    return fscanf(f, "%s", e->name);
 }
 
 int ElemReadStdin(ElemType* e) {
@@ -37,7 +35,16 @@ int ElemReadStdin(ElemType* e) {
 }
 
 void ElemWrite(const ElemType* e, FILE* f) {
-    fprintf(f, "%d", *e);
+    fprintf(f, "%s", e->name);
+}
+
+void ElemWriteAll(const ElemType* e, FILE* f) {
+    fprintf(f, "city: %s name: %s indirizzo: %s civico: %d provincia: %s cap: %s\n", e->city,e->name, e->street, e->number, e->province, e->postal_code);
+}
+
+
+void ElemWriteAllStdout(const ElemType* e) {
+    ElemWriteAll(e, stdout);
 }
 
 void ElemWriteStdout(const ElemType* e) {
