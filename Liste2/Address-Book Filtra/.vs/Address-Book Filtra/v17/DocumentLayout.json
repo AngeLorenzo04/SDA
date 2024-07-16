@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\address_book.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|solutionrelative:address_book.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|solutionrelative:list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\elemtype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|solutionrelative:elemtype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41F6678-BFB7-4B40-9805-00B499741308}|Address-Book Filtra.vcxproj|solutionrelative:mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\list.c",
+              "RelativeDocumentMoniker": "list.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\list.c",
+              "RelativeToolTip": "list.c",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:03:27.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "address_book.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\address_book.c",
+              "RelativeDocumentMoniker": "address_book.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\address_book.c",
+              "RelativeToolTip": "address_book.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T20:55:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "elemtype.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\elemtype.c",
+              "RelativeDocumentMoniker": "elemtype.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\elemtype.c",
+              "RelativeToolTip": "elemtype.c",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:00:10.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mian.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\mian.c",
+              "RelativeDocumentMoniker": "mian.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Filtra\\mian.c",
+              "RelativeToolTip": "mian.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T20:54:24.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

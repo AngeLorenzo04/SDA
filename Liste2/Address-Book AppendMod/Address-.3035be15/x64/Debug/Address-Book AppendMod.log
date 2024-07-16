@@ -1,0 +1,4 @@
+﻿  address_book.c
+C:\Users\asd\Desktop\SDA\Liste2\Address-Book AppendMod\address_book.c(12,23): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\asd\Desktop\SDA\Liste2\Address-Book AppendMod\address_book.c(16,2): warning C4090: 'return': qualificatori 'const' differenti
+  Address-Book AppendMod.vcxproj -> C:\Users\asd\Desktop\SDA\Liste2\Address-Book AppendMod\x64\Debug\Address-Book AppendMod.exe
