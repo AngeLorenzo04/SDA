@@ -1,0 +1,4 @@
+﻿  mian.c
+C:\Users\Utente\Desktop\SDA\Liste2\Address-Book Append\mian.c(30,25): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Utente\Desktop\SDA\Liste2\Address-Book Append\mian.c(37,25): warning C4090: 'function': different 'const' qualifiers
+  Address-Book Append.vcxproj -> C:\Users\Utente\Desktop\SDA\Liste2\Address-Book Append\x64\Debug\Address-Book Append.exe

@@ -32,11 +32,11 @@ int main(void) {
 	}
 	const Item* i2 = ListCreateEmpty();
 
-	/*for (size_t j = 0; j < 5; j++) {
+	for (size_t j = 0; j < 5; j++) {
 
 		i2 = ListInsertBack(i2, inidrizzi2 + j);
 
-	}*/
+	}
 	
 	ListWriteStdout(i1);
 	ListWriteStdout(i2);

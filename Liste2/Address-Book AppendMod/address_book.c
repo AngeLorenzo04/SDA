@@ -6,12 +6,22 @@
 
 Item* AppendMod(Item* i1,  Item* i2) {
 
-
-	for (Item* tmp = i2; !ListIsEmpty(tmp); tmp = ListGetTail(tmp)) {
-
-		i1 = ListInsertBack(i1, ListGetHeadValue(tmp));
-
+	if (i1 == NULL) {
+		return i2;
 	}
+
+	Item* tmp = i1;
+
+	while (1) {
+
+		tmp = ListGetTail(tmp);
+		if (tmp->next == NULL) {
+			break;
+		}
+	}
+
+	tmp->next = i2;
+	
 
 	return i1;
 

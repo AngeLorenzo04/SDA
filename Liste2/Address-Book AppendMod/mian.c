@@ -24,12 +24,12 @@ int main(void) {
 	
 	
 	const Item* i1 = ListCreateEmpty();
-
 	for (size_t j = 0; j < 5; j++) {
 
 		i1 = ListInsertBack(i1, inidrizzi + j);
 
 	}
+
 	const Item* i2 = ListCreateEmpty();
 
 	for (size_t j = 0; j < 5; j++) {
