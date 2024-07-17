@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3035BE15-9CAE-4BC6-A581-4ECF8FFA9A7B}|Address-Book AppendMod.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\address_book.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3035BE15-9CAE-4BC6-A581-4ECF8FFA9A7B}|Address-Book AppendMod.vcxproj|solutionrelative:address_book.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3035BE15-9CAE-4BC6-A581-4ECF8FFA9A7B}|Address-Book AppendMod.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3035BE15-9CAE-4BC6-A581-4ECF8FFA9A7B}|Address-Book AppendMod.vcxproj|solutionrelative:mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mian.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\mian.c",
+              "RelativeDocumentMoniker": "mian.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\mian.c",
+              "RelativeToolTip": "mian.c",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:36:53.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "address_book.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\address_book.c",
+              "RelativeDocumentMoniker": "address_book.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book AppendMod\\address_book.c",
+              "RelativeToolTip": "address_book.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:36:43.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

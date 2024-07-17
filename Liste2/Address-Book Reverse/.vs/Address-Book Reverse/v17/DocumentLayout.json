@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AD1310-7921-4DB2-8B9B-CC63F30BC427}|Address-Book Reverse.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\address_book.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73AD1310-7921-4DB2-8B9B-CC63F30BC427}|Address-Book Reverse.vcxproj|solutionrelative:address_book.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AD1310-7921-4DB2-8B9B-CC63F30BC427}|Address-Book Reverse.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73AD1310-7921-4DB2-8B9B-CC63F30BC427}|Address-Book Reverse.vcxproj|solutionrelative:list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AD1310-7921-4DB2-8B9B-CC63F30BC427}|Address-Book Reverse.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73AD1310-7921-4DB2-8B9B-CC63F30BC427}|Address-Book Reverse.vcxproj|solutionrelative:mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\list.c",
+              "RelativeDocumentMoniker": "list.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\list.c",
+              "RelativeToolTip": "list.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:19:02.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mian.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\mian.c",
+              "RelativeDocumentMoniker": "mian.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\mian.c",
+              "RelativeToolTip": "mian.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:14:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "address_book.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\address_book.c",
+              "RelativeDocumentMoniker": "address_book.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Liste2\\Address-Book Reverse\\address_book.c",
+              "RelativeToolTip": "address_book.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T21:14:21.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  mian.c
+C:\Users\asd\Desktop\SDA\Liste2\Address-Book Append\mian.c(30,23): warning C4090: 'funzione': qualificatori 'const' differenti
+  Address-Book Append.vcxproj -> C:\Users\asd\Desktop\SDA\Liste2\Address-Book Append\x64\Debug\Address-Book Append.exe
