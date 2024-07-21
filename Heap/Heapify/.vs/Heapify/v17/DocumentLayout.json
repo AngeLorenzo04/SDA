@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3F24D3-BD76-406C-922A-8F548655B126}|Heapify.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\heapify.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3F24D3-BD76-406C-922A-8F548655B126}|Heapify.vcxproj|solutionrelative:heapify.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3F24D3-BD76-406C-922A-8F548655B126}|Heapify.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\alg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB3F24D3-BD76-406C-922A-8F548655B126}|Heapify.vcxproj|solutionrelative:alg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3F24D3-BD76-406C-922A-8F548655B126}|Heapify.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3F24D3-BD76-406C-922A-8F548655B126}|Heapify.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "debugger_jmc.c",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-21T15:27:14.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "heapify.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\heapify.c",
+              "RelativeDocumentMoniker": "heapify.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\heapify.c",
+              "RelativeToolTip": "heapify.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-21T14:09:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-21T14:08:55.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alg.txt",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\alg.txt",
+              "RelativeDocumentMoniker": "alg.txt",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Heap\\Heapify\\alg.txt",
+              "RelativeToolTip": "alg.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-21T15:29:22.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
