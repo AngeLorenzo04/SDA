@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Bst Delete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{489CF481-DE55-4CFB-A9AA-3E726E8A7C77}|Bst Delete.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Bst Delete\\delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{489CF481-DE55-4CFB-A9AA-3E726E8A7C77}|Bst Delete.vcxproj|solutionrelative:delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489CF481-DE55-4CFB-A9AA-3E726E8A7C77}|Bst Delete.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Min BST\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Min BST\\main.c",
+              "RelativeDocumentMoniker": "..\\Min BST\\main.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Min BST\\main.c",
+              "RelativeToolTip": "..\\Min BST\\main.c",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T16:36:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "delete.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Bst Delete\\delete.c",
+              "RelativeDocumentMoniker": "delete.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Bst Delete\\delete.c",
+              "RelativeToolTip": "delete.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T16:36:03.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

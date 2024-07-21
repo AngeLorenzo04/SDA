@@ -1,0 +1,3 @@
+﻿  treemin.c
+C:\Users\asd\Desktop\SDA\Alberi\Min BST\treemin.c(22,12): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  Min BST.vcxproj -> C:\Users\asd\Desktop\SDA\Alberi\Min BST\x64\Debug\Min BST.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E386BD76-6E6A-4E57-9F9A-6D3AC3C3F468}|Dominant BST.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\dominant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E386BD76-6E6A-4E57-9F9A-6D3AC3C3F468}|Dominant BST.vcxproj|solutionrelative:dominant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E386BD76-6E6A-4E57-9F9A-6D3AC3C3F468}|Dominant BST.vcxproj|C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E386BD76-6E6A-4E57-9F9A-6D3AC3C3F468}|Dominant BST.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dominant.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\dominant.c",
+              "RelativeDocumentMoniker": "dominant.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\dominant.c",
+              "RelativeToolTip": "dominant.c",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T10:36:21.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\asd\\Desktop\\SDA\\Alberi\\Dominant BST\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T10:34:03.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
