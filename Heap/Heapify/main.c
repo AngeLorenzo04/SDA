@@ -8,12 +8,15 @@ int main(void) {
 	h->data = malloc(5 * sizeof(ElemType));
 	h->size = 5;
 
-	const ElemType elem[] = { 4, 6, 1, 2, 12, 23 };
+	const ElemType elem1[] = { 4, 6, 1, 1, 12, 23 };
+	const ElemType elem[] = { 5,3,3,2,1 };
 
 
-	h = HeapMinHeapify(elem, 6);
 
+	h = HeapMinHeapify(elem1, 6);
+	h = HeapMinHeapify(elem, 5);
 
+	printf("Heap del porcoddio: \n");
 	HeapWriteStdout(h);
 
 	return 0;
