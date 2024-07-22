@@ -2,25 +2,25 @@
 #include <stdlib.h>
 #include <limits.h>
 
-extern void HeapMinMoveDownRec(Heap* h, int i);
+extern bool HeapMinPop(Heap* h, ElemType* e);
+
+
 int main(void) {
 
 	Heap* h = HeapCreateEmpty();
-	h->data = malloc(6 * sizeof(ElemType));
-	h->size = 6;
 
-	const ElemType elem1[] = { 4, 6, 1, 1, 12, 23 };
 	const ElemType elem[] = {32,5,4,6,12,23};
 
 	for (size_t i = 0; i < 6; i++) {
 		
-		h->data[i] = ElemCopy(elem + i);
+		HeapMinInsertNode(h, elem + i);
 	}
 
 	printf("Heap del porcoddio: \n");
 	HeapWriteStdout(h);
 
-	HeapMinMoveDownRec(h, 0);
+	ElemType* e = malloc(sizeof(ElemType));
+	HeapMinPop(h, e);
 
 	printf("Heap della porcaccia la madonna: \n");
 	HeapWriteStdout(h);
@@ -30,9 +30,15 @@ int main(void) {
 
 /*
 
+    
+
+*/
+
+/*
+
 		5                 3                  3             1   RIS: 1 2 3 5 3
 	   / \               / \                / \           / \
-      3   3             2   3              2  3         2   3
+      3   3             2   3              2  3          2	 3
      / \               / \                / \           / \
     2   1             5	  1              5   1         5   3
 	 

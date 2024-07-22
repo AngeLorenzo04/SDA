@@ -1,0 +1,3 @@
+﻿  pop.c
+C:\Users\Utente\Desktop\SDA\Heap\HeapMin Pop\pop.c(13,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HeapMin Pop.vcxproj -> C:\Users\Utente\Desktop\SDA\Heap\HeapMin Pop\x64\Debug\HeapMin Pop.exe

@@ -8,10 +8,10 @@ static int MinChild(Heap* h, int i) {
 		return INT_MIN;
 	}
 
-	if (HeapLeft(i) > (int)h->size) {
+	if (HeapLeft(i) >= (int)h->size) {
 		return HeapRight(i);
 	}
-	if (HeapRight(i) > (int)h->size) {
+	if (HeapRight(i) >= (int)h->size) {
 		return HeapLeft(i);
 	}
 
@@ -39,10 +39,10 @@ void HeapMinMoveDownRec(Heap* h, int i) {
 		
 		ElemSwap(HeapGetNodeValue(h, i), HeapGetNodeValue(h, youngest));
 		HeapMinMoveDownRec(h, youngest);
+
 	}
 
 	return;
-
 }
 
 		 
