@@ -1,0 +1,3 @@
+﻿  egizia.c
+C:\Users\dican\OneDrive\Desktop\SDA\somme egiziane\egizia.c(10,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  somme egiziane.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\somme egiziane\x64\Debug\somme egiziane.exe
