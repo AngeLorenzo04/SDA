@@ -48,6 +48,10 @@ indice:
 > * Address-Book Find
 * Heap
 > * Heapify
+> * HeapMin Pop
+> * MoveDown Rec
+> * MoveUp Rec
+> * primitive_minheap
 
 come aprire un programma:
 > una volta clonata la repo tramite il comando `git clone` recarsi nel percorso del file desiderato e aprire il file .sln con VS oppure cercare `nomefile.c` per accedere direttamente ai codici da caricare su olj.
