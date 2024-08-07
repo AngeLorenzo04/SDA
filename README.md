@@ -31,6 +31,23 @@ indice:
 > * Monete c
 > * Gioielli c
 > * Stack c  
+* Liste 1
+> * Differenza
+> * Intersect
+> * Diff&Intersect no rep
+> * Load
+> * Massimo
+> * Primitive
+*Liste 2
+> * Address-Book Append
+> * Address-Book AppendMod
+> * Address-Book Filtra
+> * Address-Book Reverse
+> * Address-Book Sort
+> * Address-Book Delete
+> * Address-Book Find
+* Heap
+> * Heapify
 
 come aprire un programma:
 > una volta clonata la repo tramite il comando `git clone` recarsi nel percorso del file desiderato e aprire il file .sln con VS oppure cercare `nomefile.c` per accedere direttamente ai codici da caricare su olj.
