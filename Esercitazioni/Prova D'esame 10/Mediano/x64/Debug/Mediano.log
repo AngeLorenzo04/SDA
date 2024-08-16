@@ -1,0 +1,3 @@
+﻿  mediano.c
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 10\Mediano\mediano.c(32,11): warning C4090: 'return': different 'const' qualifiers
+  Mediano.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 10\Mediano\x64\Debug\Mediano.exe

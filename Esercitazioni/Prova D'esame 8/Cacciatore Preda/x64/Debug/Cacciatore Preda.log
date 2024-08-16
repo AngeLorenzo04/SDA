@@ -1,0 +1,5 @@
+﻿  cattura.c
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 8\Cacciatore Preda\cattura.c(43,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 8\Cacciatore Preda\cattura.c(47,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 8\Cacciatore Preda\cattura.c(55,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Cacciatore Preda.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 8\Cacciatore Preda\x64\Debug\Cacciatore Preda.exe

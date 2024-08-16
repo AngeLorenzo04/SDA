@@ -1,0 +1,4 @@
+﻿  colori.c
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 9\Mappa Colori\colori.c(12,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 9\Mappa Colori\colori.c(12,10): message : consider using '%zd' in the format string
+  Mappa Colori.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 9\Mappa Colori\x64\Debug\Mappa Colori.exe
