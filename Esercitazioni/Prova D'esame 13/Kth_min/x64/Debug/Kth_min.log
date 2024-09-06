@@ -1,0 +1,5 @@
+﻿  kth_least.c
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 13\Kth_min\kth_least.c(9,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 13\Kth_min\kth_least.c(9,13): warning C4047: '=': 'ElemType' differs in levels of indirection from 'ElemType *'
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 13\Kth_min\kth_least.c(22,48): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Kth_min.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 13\Kth_min\x64\Debug\Kth_min.exe
