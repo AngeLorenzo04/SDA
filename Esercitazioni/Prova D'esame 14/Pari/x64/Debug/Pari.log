@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 14\Pari\main.c(15,25): warning C4090: 'function': different 'const' qualifiers
+  Pari.vcxproj -> C:\Users\dican\OneDrive\Desktop\SDA\Esercitazioni\Prova D'esame 14\Pari\x64\Debug\Pari.exe
