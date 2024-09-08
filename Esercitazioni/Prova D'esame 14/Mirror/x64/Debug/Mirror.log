@@ -1,0 +1,4 @@
+﻿  mirror.c
+C:\Users\Utente\Desktop\SDA\Esercitazioni\Prova D'esame 14\Mirror\mirror.c(25,21): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\Utente\Desktop\SDA\Esercitazioni\Prova D'esame 14\Mirror\mirror.c(25,15): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  Mirror.vcxproj -> C:\Users\Utente\Desktop\SDA\Esercitazioni\Prova D'esame 14\Mirror\x64\Debug\Mirror.exe

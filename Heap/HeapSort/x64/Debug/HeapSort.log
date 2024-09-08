@@ -1,0 +1,5 @@
+﻿  heapsort.c
+C:\Users\Utente\Desktop\SDA\Heap\HeapSort\heapsort.c(6,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Utente\Desktop\SDA\Heap\HeapSort\heapsort.c(48,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Utente\Desktop\SDA\Heap\HeapSort\heapsort.c(63,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HeapSort.vcxproj -> C:\Users\Utente\Desktop\SDA\Heap\HeapSort\x64\Debug\HeapSort.exe
