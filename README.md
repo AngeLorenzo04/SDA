@@ -1,4 +1,5 @@
-Welcome to the SDA wiki!
+**Welcome!**
+This repository contains examples and exercises to help you prepare for the Data Structures and Algorithms exam by Prof. Federico Bolelli. It includes implementations of fundamental data structures, sorting and searching algorithms, and solved past exam exercises.
 
 indice:
 * ripasso
@@ -53,6 +54,6 @@ indice:
 > * MoveUp Rec
 > * primitive_minheap
 
-come aprire un programma:
-> una volta clonata la repo tramite il comando `git clone` recarsi nel percorso del file desiderato e aprire il file .sln con VS oppure cercare `nomefile.c` per accedere direttamente ai codici da caricare su olj.
+how to run a file:
+> clone the repo using the command `git clone` reach the target problem and run the file `.sln` on VS, or look for `nomefile.c` to read the code to submit on olj.
 
